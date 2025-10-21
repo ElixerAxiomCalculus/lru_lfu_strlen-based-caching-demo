@@ -1,0 +1,12 @@
+@import "tailwindcss";
+
+/* Global layout rules */
+html, body, #root {
+  height: 100%;
+}
+
+body {
+  font-family: "Inter", system-ui, -apple-system, "Segoe UI", Roboto, Arial, sans-serif;
+  background-color: rgb(248, 250, 252); /* slate-50 */
+  color: rgb(15, 23, 42); /* slate-900 */
+}
